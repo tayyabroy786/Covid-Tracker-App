@@ -1,7 +1,7 @@
 
 
-# Bootcamp Project 03
+# Bootcamp 2020 Project 2
 
-#Expense Tracker React App
+#COVID-19 Tracker App
 
 Live here :  http://covid19trackerapp-tayyabroy786.surge.sh
